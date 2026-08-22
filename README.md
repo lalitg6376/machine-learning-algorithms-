@@ -6,7 +6,7 @@ This repository is designed to help learners understand the mathematical intuiti
 
 ---
 
-## 📌 About the Project
+## 📌 About the Projects
 
 The primary goal of this repository is to provide a hands-on understanding of Machine Learning algorithms by implementing them step-by-step and exploring how they work behind the scenes.
 
